@@ -1,0 +1,64 @@
+[
+  {
+    "package": "arules",
+    "oncran": true
+  },
+  {
+    "package": "arulesViz",
+    "oncran": true
+  },
+  {
+    "package": "arulesCBA",
+    "oncran": false
+  },
+  {
+    "package": "arulesNBMiner",
+    "oncran": true
+  },
+  {
+    "package": "dbscan",
+    "oncran": true
+  },
+  {
+    "package": "seriation",
+    "oncran": true
+  },
+  {
+    "package": "TSP",
+    "oncran": true
+  },
+  {
+    "package": "qap",
+    "oncran": true
+  },
+  {
+    "package": "stream",
+    "oncran": true
+  },
+  {
+    "package": "streamMOA",
+    "oncran": true
+  },
+  {
+    "package": "rEMM",
+    "oncran": true
+  },
+  {
+    "package": "recommenderlab",
+    "oncran": true
+  },
+  {
+    "package": "pomdp",
+    "oncran": true
+  },
+  {
+    "package": "pomdpSolve",
+    "oncran": true
+  },
+  {
+    "package": "rBLAST"
+  },
+  {
+    "package": "rMSA"
+  }
+]

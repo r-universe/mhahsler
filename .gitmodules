@@ -1,5 +1,85 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mhahsler/universe
 	shallow = true
 	branch = HEAD
+[submodule "arules"]
+	path = arules
+	url = https://github.com/mhahsler/arules
+	shallow = true
+	registered = true
+[submodule "arulesViz"]
+	path = arulesViz
+	url = https://github.com/mhahsler/arulesViz
+	shallow = true
+	registered = true
+[submodule "arulesCBA"]
+	path = arulesCBA
+	url = https://github.com/mhahsler/arulesCBA
+	shallow = true
+	registered = true
+[submodule "arulesNBMiner"]
+	path = arulesNBMiner
+	url = https://github.com/mhahsler/arulesNBMiner
+	shallow = true
+	registered = true
+[submodule "dbscan"]
+	path = dbscan
+	url = https://github.com/mhahsler/dbscan
+	shallow = true
+	registered = true
+[submodule "seriation"]
+	path = seriation
+	url = https://github.com/mhahsler/seriation
+	shallow = true
+	registered = true
+[submodule "TSP"]
+	path = TSP
+	url = https://github.com/mhahsler/TSP
+	shallow = true
+	registered = true
+[submodule "qap"]
+	path = qap
+	url = https://github.com/mhahsler/qap
+	shallow = true
+	registered = true
+[submodule "stream"]
+	path = stream
+	url = https://github.com/mhahsler/stream
+	shallow = true
+	registered = true
+[submodule "streamMOA"]
+	path = streamMOA
+	url = https://github.com/mhahsler/streamMOA
+	shallow = true
+	registered = true
+[submodule "rEMM"]
+	path = rEMM
+	url = https://github.com/mhahsler/rEMM
+	shallow = true
+	registered = true
+[submodule "recommenderlab"]
+	path = recommenderlab
+	url = https://github.com/mhahsler/recommenderlab
+	shallow = true
+	registered = true
+[submodule "pomdp"]
+	path = pomdp
+	url = https://github.com/mhahsler/pomdp
+	shallow = true
+	registered = true
+[submodule "pomdpSolve"]
+	path = pomdpSolve
+	url = https://github.com/mhahsler/pomdpSolve
+	shallow = true
+	registered = true
+[submodule "rBLAST"]
+	path = rBLAST
+	url = https://github.com/mhahsler/rBLAST
+	shallow = true
+	registered = true
+[submodule "rMSA"]
+	path = rMSA
+	url = https://github.com/mhahsler/rMSA
+	shallow = true
+	registered = true
