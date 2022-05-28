@@ -9,7 +9,7 @@
   },
   {
     "package": "arulesCBA",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "arulesNBMiner",
