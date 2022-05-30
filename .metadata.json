@@ -48,6 +48,14 @@
     "oncran": true
   },
   {
+    "package": "recommenderlabJester",
+    "oncran": false
+  },
+  {
+    "package": "recommenderlabBX",
+    "oncran": false
+  },
+  {
     "package": "pomdp",
     "oncran": true
   },
@@ -60,5 +68,8 @@
   },
   {
     "package": "rMSA"
+  },
+  {
+    "package": "rRDP"
   }
 ]

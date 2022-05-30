@@ -63,6 +63,16 @@
 	url = https://github.com/mhahsler/recommenderlab
 	shallow = true
 	registered = true
+[submodule "recommenderlabJester"]
+	path = recommenderlabJester
+	url = https://github.com/mhahsler/recommenderlabJester
+	shallow = true
+	registered = true
+[submodule "recommenderlabBX"]
+	path = recommenderlabBX
+	url = https://github.com/mhahsler/recommenderlabBX
+	shallow = true
+	registered = true
 [submodule "pomdp"]
 	path = pomdp
 	url = https://github.com/mhahsler/pomdp
@@ -81,5 +91,10 @@
 [submodule "rMSA"]
 	path = rMSA
 	url = https://github.com/mhahsler/rMSA
+	shallow = true
+	registered = true
+[submodule "rRDP"]
+	path = rRDP
+	url = https://github.com/mhahsler/rRDP
 	shallow = true
 	registered = true
