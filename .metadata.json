@@ -49,11 +49,11 @@
   },
   {
     "package": "recommenderlabJester",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "recommenderlabBX",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "pomdp",
