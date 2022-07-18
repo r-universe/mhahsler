@@ -32,6 +32,10 @@
     "oncran": true
   },
   {
+    "package": "cba",
+    "oncran": false
+  },
+  {
     "package": "stream",
     "oncran": true
   },

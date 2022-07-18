@@ -43,6 +43,11 @@
 	url = https://github.com/mhahsler/qap
 	shallow = true
 	registered = true
+[submodule "cba"]
+	path = cba
+	url = https://github.com/mhahsler/cba
+	shallow = true
+	registered = true
 [submodule "stream"]
 	path = stream
 	url = https://github.com/mhahsler/stream
