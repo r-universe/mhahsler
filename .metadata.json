@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "arulesSequences",
+    "oncran": false
+  },
+  {
     "package": "dbscan",
     "oncran": true
   },

@@ -23,6 +23,11 @@
 	url = https://github.com/mhahsler/arulesNBMiner
 	shallow = true
 	registered = true
+[submodule "arulesSequences"]
+	path = arulesSequences
+	url = https://github.com/mhahsler/arulesSequences
+	shallow = true
+	registered = true
 [submodule "dbscan"]
 	path = dbscan
 	url = https://github.com/mhahsler/dbscan
