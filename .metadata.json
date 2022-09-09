@@ -48,6 +48,9 @@
     "oncran": true
   },
   {
+    "package": "streamConnect"
+  },
+  {
     "package": "rEMM",
     "oncran": true
   },
