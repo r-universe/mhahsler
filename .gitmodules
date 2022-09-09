@@ -65,7 +65,7 @@
 	registered = true
 [submodule "streamConnect"]
 	path = streamConnect
-	url = https://github.com/mhahsler/streamMOA
+	url = https://github.com/mhahsler/streamConnect
 	shallow = true
 	registered = true
 [submodule "rEMM"]
