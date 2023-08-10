@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/mhahsler/universe
 	branch = HEAD
+[submodule "TSP"]
+	path = TSP
+	url = https://github.com/mhahsler/TSP
 [submodule "arules"]
 	path = arules
 	url = https://github.com/mhahsler/arules
-[submodule "arulesViz"]
-	path = arulesViz
-	url = https://github.com/mhahsler/arulesViz
 [submodule "arulesCBA"]
 	path = arulesCBA
 	url = https://github.com/mhahsler/arulesCBA
@@ -17,54 +17,54 @@
 [submodule "arulesSequences"]
 	path = arulesSequences
 	url = https://github.com/mhahsler/arulesSequences
-[submodule "dbscan"]
-	path = dbscan
-	url = https://github.com/mhahsler/dbscan
-[submodule "seriation"]
-	path = seriation
-	url = https://github.com/mhahsler/seriation
-[submodule "TSP"]
-	path = TSP
-	url = https://github.com/mhahsler/TSP
-[submodule "qap"]
-	path = qap
-	url = https://github.com/mhahsler/qap
+[submodule "arulesViz"]
+	path = arulesViz
+	url = https://github.com/mhahsler/arulesViz
 [submodule "cba"]
 	path = cba
 	url = https://github.com/mhahsler/cba
-[submodule "stream"]
-	path = stream
-	url = https://github.com/mhahsler/stream
-[submodule "streamMOA"]
-	path = streamMOA
-	url = https://github.com/mhahsler/streamMOA
-[submodule "streamConnect"]
-	path = streamConnect
-	url = https://github.com/mhahsler/streamConnect
-[submodule "rEMM"]
-	path = rEMM
-	url = https://github.com/mhahsler/rEMM
-[submodule "recommenderlab"]
-	path = recommenderlab
-	url = https://github.com/mhahsler/recommenderlab
-[submodule "recommenderlabJester"]
-	path = recommenderlabJester
-	url = https://github.com/mhahsler/recommenderlabJester
-[submodule "recommenderlabBX"]
-	path = recommenderlabBX
-	url = https://github.com/mhahsler/recommenderlabBX
+[submodule "dbscan"]
+	path = dbscan
+	url = https://github.com/mhahsler/dbscan
 [submodule "pomdp"]
 	path = pomdp
 	url = https://github.com/mhahsler/pomdp
 [submodule "pomdpSolve"]
 	path = pomdpSolve
 	url = https://github.com/mhahsler/pomdpSolve
+[submodule "qap"]
+	path = qap
+	url = https://github.com/mhahsler/qap
 [submodule "rBLAST"]
 	path = rBLAST
 	url = https://github.com/mhahsler/rBLAST
+[submodule "rEMM"]
+	path = rEMM
+	url = https://github.com/mhahsler/rEMM
 [submodule "rMSA"]
 	path = rMSA
 	url = https://github.com/mhahsler/rMSA
 [submodule "rRDP"]
 	path = rRDP
 	url = https://github.com/mhahsler/rRDP
+[submodule "recommenderlab"]
+	path = recommenderlab
+	url = https://github.com/mhahsler/recommenderlab
+[submodule "recommenderlabBX"]
+	path = recommenderlabBX
+	url = https://github.com/mhahsler/recommenderlabBX
+[submodule "recommenderlabJester"]
+	path = recommenderlabJester
+	url = https://github.com/mhahsler/recommenderlabJester
+[submodule "seriation"]
+	path = seriation
+	url = https://github.com/mhahsler/seriation
+[submodule "stream"]
+	path = stream
+	url = https://github.com/mhahsler/stream
+[submodule "streamConnect"]
+	path = streamConnect
+	url = https://github.com/mhahsler/streamConnect
+[submodule "streamMOA"]
+	path = streamMOA
+	url = https://github.com/mhahsler/streamMOA
