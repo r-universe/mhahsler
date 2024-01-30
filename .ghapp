@@ -1,9 +1,10 @@
 {
   "id": 25825985,
   "created_at": "2022-05-19T15:21:40.000Z",
-  "repository_selection": "all",
+  "repository_selection": "selected",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["qap", "dbscan", "rMSA", "rBLAST", "TSP", "seriation", "arules", "arulesViz", "arulesNBMiner", "stream", "streamMOA", "recommenderlab", "pomdp", "rEMM", "pomdpSolve", "arulesCBA", "rRDP", "cba", "arulesSequences", "streamConnect"]
 }
