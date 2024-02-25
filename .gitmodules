@@ -23,9 +23,6 @@
 [submodule "cba"]
 	path = cba
 	url = https://github.com/mhahsler/cba
-[submodule "curl"]
-	path = curl
-	url = https://github.com/jeroen/curl
 [submodule "dbscan"]
 	path = dbscan
 	url = https://github.com/mhahsler/dbscan
