@@ -47,6 +47,9 @@
 [submodule "rRDP"]
 	path = rRDP
 	url = https://github.com/mhahsler/rRDP
+[submodule "rRDPData"]
+	path = rRDPData
+	url = https://git.bioconductor.org/packages/rRDPData
 [submodule "recommenderlab"]
 	path = recommenderlab
 	url = https://github.com/mhahsler/recommenderlab
