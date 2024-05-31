@@ -26,9 +26,9 @@
 [submodule "dbscan"]
 	path = dbscan
 	url = https://github.com/mhahsler/dbscan
-[submodule "mdp"]
-	path = mdp
-	url = https://github.com/mhahsler/mdp
+[submodule "markovDP"]
+	path = markovDP
+	url = https://github.com/mhahsler/markovDP
 [submodule "pomdp"]
 	path = pomdp
 	url = https://github.com/mhahsler/pomdp
