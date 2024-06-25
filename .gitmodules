@@ -16,13 +16,13 @@
 	url = https://github.com/mhahsler/arulesNBMiner
 [submodule "arulesSequences"]
 	path = arulesSequences
-	url = https://github.com/mhahsler/arulesSequences
+	url = https://github.com/cran/arulesSequences
 [submodule "arulesViz"]
 	path = arulesViz
 	url = https://github.com/mhahsler/arulesViz
 [submodule "cba"]
 	path = cba
-	url = https://github.com/mhahsler/cba
+	url = https://github.com/cran/cba
 [submodule "dbscan"]
 	path = dbscan
 	url = https://github.com/mhahsler/dbscan
