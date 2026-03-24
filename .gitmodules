@@ -29,6 +29,9 @@
 [submodule "markovDP"]
 	path = markovDP
 	url = https://github.com/mhahsler/markovDP
+[submodule "pmml"]
+	path = pmml
+	url = https://github.com/mhahsler/r-pmml
 [submodule "pomdp"]
 	path = pomdp
 	url = https://github.com/mhahsler/pomdp
